@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-fetching/static/css/main.dc3621ef.css",
+    "main.js": "/react-fetching/static/js/main.1ed81582.js",
+    "index.html": "/react-fetching/index.html",
+    "main.dc3621ef.css.map": "/react-fetching/static/css/main.dc3621ef.css.map",
+    "main.1ed81582.js.map": "/react-fetching/static/js/main.1ed81582.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3621ef.css",
+    "static/js/main.1ed81582.js"
+  ]
+}
